@@ -199,6 +199,10 @@ section {
     gap: 1rem;
 }
 
+.btn-adjust {
+    justify-content: center;
+}
+
 /*Icon*/
 
 .icon {
